@@ -1,0 +1,78 @@
+D:/univrsity/CAD/midterm/Datapath.v {1 {vlog -work work -stats=none D:/univrsity/CAD/midterm/Datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} D:/univrsity/CAD/midterm/Block.v {1 {vlog -work work -stats=none D:/univrsity/CAD/midterm/Block.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Block
+
+Top level modules:
+	Block
+
+} {} {}} D:/univrsity/CAD/midterm/registerN.v {1 {vlog -work work -stats=none D:/univrsity/CAD/midterm/registerN.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module registerN
+
+Top level modules:
+	registerN
+
+} {} {}} D:/univrsity/CAD/midterm/Mux_4_to_1.v {1 {vlog -work work -stats=none D:/univrsity/CAD/midterm/Mux_4_to_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_4_to_1
+
+Top level modules:
+	Mux_4_to_1
+
+} {} {}} D:/univrsity/CAD/midterm/testbench.sv {1 {vlog -work work -sv -stats=none D:/univrsity/CAD/midterm/testbench.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} D:/univrsity/CAD/midterm/up_counter_2bit.v {1 {vlog -work work -stats=none D:/univrsity/CAD/midterm/up_counter_2bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module up_counter_2bit
+
+Top level modules:
+	up_counter_2bit
+
+} {} {}} D:/univrsity/CAD/midterm/down_counter_3bit.v {1 {vlog -work work -stats=none D:/univrsity/CAD/midterm/down_counter_3bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module down_counter_3bit
+
+Top level modules:
+	down_counter_3bit
+
+} {} {}} D:/univrsity/CAD/midterm/maclauren.v {1 {vlog -work work -stats=none D:/univrsity/CAD/midterm/maclauren.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module maclauren
+
+Top level modules:
+	maclauren
+
+} {} {}} D:/univrsity/CAD/midterm/Controller.v {1 {vlog -work work -stats=none D:/univrsity/CAD/midterm/Controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} D:/univrsity/CAD/midterm/register.v {1 {vlog -work work -stats=none D:/univrsity/CAD/midterm/register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} D:/univrsity/CAD/midterm/Mux_2_to_1.v {1 {vlog -work work -stats=none D:/univrsity/CAD/midterm/Mux_2_to_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_2_to_1
+
+Top level modules:
+	Mux_2_to_1
+
+} {} {}}
